@@ -1,0 +1,1872 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 167
+
+newmtl 07___Default
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\tree-stump\\textures\\07___Default_albedo.jpeg
+
+newmtl AbiesAlba_01.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl AbiesAlba_01.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl AbiesAlba_01.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl AbiesAlba_01.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl AbiesAlba_01.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl AbiesAlba_01.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.419608 0.298039
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.970000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\AbiesAlba_01.png
+
+newmtl Bok_Walls
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.114679 0.114679 0.114679
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Bok_Walls_AlbedoTransparency.png
+
+newmtl Buss.000
+Ns 225.000000
+Ka 0.587156 0.587156 0.587156
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Buss.jpg
+
+newmtl DefaultMaterial
+Ns 0.000000
+Ka 0.091743 0.091743 0.091743
+Kd 0.800000 0.800000 0.800000
+Ks 0.073394 0.073394 0.073394
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\sleeping-bag\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.001
+Ns 225.000000
+Ka 0.146789 0.146789 0.146789
+Kd 0.800000 0.800000 0.800000
+Ks 0.100917 0.100917 0.100917
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\potbelly-stove\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\dock-left-piece\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\dock-left-piece\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\bandage-roll\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\dock-left-piece\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl DefaultMaterial.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\tent\\source\\model\\textures\\DefaultMaterial_albedo.jpg
+
+newmtl Door
+Ns 277.268329
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.087156 0.087156 0.087156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Door_AlbedoTransparency.png
+
+newmtl Face_Walls
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.133028 0.133028 0.133028
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Face_Walls_AlbedoTransparency.png
+
+newmtl Floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.178899 0.178899 0.178899
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Floor_AlbedoTransparency.png
+
+newmtl Glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Glass_AlbedoTransparency.png
+
+newmtl Grass.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Grass.JPG
+
+newmtl Grass.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Grass.JPG
+
+newmtl Grass.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Grass.JPG
+
+newmtl Hand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Hand_AlbedoTransparency.png
+
+newmtl MAT_Cardboard.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\old-paper-cardboard-boxes\\textures\\MAT_Cardboard_Base_Color.png
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.000
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.288296 0.273639 0.232315
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Bump ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.005
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.005603 0.005603 0.005603
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.007
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\006.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\006.png
+
+newmtl Material.008
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.005603 0.005603 0.005603
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Material.009
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.252931 0.252931 0.252931
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\004.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\004.png
+
+newmtl Material.010
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.559600 0.559600 0.559600
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\001.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\001.png
+
+newmtl Material.011
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.288296 0.273639 0.232315
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Bump ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+
+newmtl Material.012
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.204782 0.226570 0.106235
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Bump ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+
+newmtl Material.013
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\005.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\005.png
+
+newmtl Material.014
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\011.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\011.png
+
+newmtl Material.015
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\007.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\007.png
+
+newmtl Material.016
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\008.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\008.png
+
+newmtl Material.017
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.018
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\009.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\009.png
+
+newmtl Material.019
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\019.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\019.png
+
+newmtl Material.020
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\018.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\018.png
+
+newmtl Material.021
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\016.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\016.png
+
+newmtl Material.022
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\021.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\021.png
+
+newmtl Material.023
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\014.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\014.png
+
+newmtl Material.024
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\020.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\020.png
+
+newmtl Material.025
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\15.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\15.png
+
+newmtl Material.026
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\textures\\012.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\012.png
+
+newmtl Material.027
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\022.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\022.png
+
+newmtl Material.028
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\013.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\013.png
+
+newmtl Material.029
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\17.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\17.png
+
+newmtl Material.030
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.031
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.032
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.033
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.204782 0.226570 0.106235
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Bump ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\002.png
+
+newmtl Material.034
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.288296 0.273639 0.232315
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Bump ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\003.png
+
+newmtl Material.035
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.559600 0.559600 0.559600
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\001.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\001.png
+
+newmtl Material.036
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.252931 0.252931 0.252931
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+map_Kd ..\\post-apocalyptic-objects\\source\\source\\textures\\004.png
+map_d ..\\post-apocalyptic-objects\\source\\source\\textures\\004.png
+
+newmtl Material.037
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.005603 0.005603 0.005603
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Material.038
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\medikit\\source\\model\\textures\\Material_albedo.jpg
+
+newmtl Material.039
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.040
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.041
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.042
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\street-lamp-low-poly\\textures\\BaseColor.png
+
+newmtl Material.043
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\syferfontein_6d_clear_1k.hdr
+
+newmtl Petli
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Petli_AlbedoTransparency.png
+
+newmtl Potolok
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Potolok_AlbedoTransparency.png
+
+newmtl Pseudolarix_01.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607843 0.415686 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\Pseudolarix_01.png
+
+newmtl Pseudolarix_01.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607843 0.415686 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\Pseudolarix_01.png
+
+newmtl Pseudolarix_01.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607843 0.415686 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\Pseudolarix_01.png
+
+newmtl Pseudolarix_01.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607843 0.415686 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\Pseudolarix_01.png
+
+newmtl Pseudolarix_01.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607843 0.415686 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\Pseudolarix_01.png
+
+newmtl Radio
+Ns 56.932966
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.064220 0.064220 0.064220
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\radio\\Unity\\Radio_AlbedoTransparency.tga
+
+newmtl RocksMat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.096330 0.096330 0.096330
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\campfire\\textures\\Rocks_Albedo.tga.png
+
+newmtl Roof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.114679 0.114679 0.114679
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Roof_AlbedoTransparency.png
+
+newmtl Ruin1.000
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Ruin1.jpg
+
+newmtl Ruin2.000
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Ruin2.jpg
+
+newmtl Ruin3.000
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Ruin3.jpg
+
+newmtl Ruin4.000
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Ruin4.jpg
+
+newmtl Socle
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ..\\old-scooter\\source\\Sketchfab\\Socle_Albedo.jpg
+map_d ..\\old-scooter\\source\\Sketchfab\\Socle_Opacity.jpg
+
+newmtl SticksMat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.096330 0.096330 0.096330
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\campfire\\textures\\Sticks_Albedo.tga.png
+
+newmtl Stolbiki
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.022936 0.022936 0.022936
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Stolbiki_AlbedoTransparency.png
+
+newmtl TrckGR.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\TrckGR.jpg
+
+newmtl TrckGR.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\TrckGR.jpg
+
+newmtl TrckGR.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\TrckGR.jpg
+
+newmtl Truck.000
+Ns 225.000000
+Ka 0.587156 0.587156 0.587156
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\TruckR.jpg
+
+newmtl TrunksMat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\campfire\\textures\\Trunks_Albedo.tga.png
+
+newmtl Vespa
+Ns 10.000002
+Ka 0.146789 0.146789 0.146789
+Kd 0.588000 0.588000 0.588000
+Ks 0.155963 0.155963 0.155963
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump Bump.tga
+map_Kd ..\\old-scooter\\source\\Sketchfab\\Vespa_ [Albedo].jpg
+map_d ..\\old-scooter\\source\\Sketchfab\\Vespa_ [Opacity].jpg
+
+newmtl Water-tank.002
+Ns 225.000000
+Ka 0.373557 0.373557 0.373557
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\Water-tank.jpg
+
+newmtl Window
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\little-shed\\textures\\house_low_Window_AlbedoTransparency.png
+
+newmtl _1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.274510 0.317647 0.200000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_1.png
+
+newmtl _1.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.274510 0.317647 0.200000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_1.png
+
+newmtl _1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.274510 0.317647 0.200000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_1.png
+
+newmtl _1.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.274510 0.317647 0.200000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_1.png
+
+newmtl _11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.423529 0.588235 0.443137
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_11.png
+
+newmtl _11.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.423529 0.588235 0.443137
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_11.png
+
+newmtl _11.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.423529 0.588235 0.443137
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_11.png
+
+newmtl _14.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.262745 0.286275 0.172549
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_14.png
+
+newmtl _14.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.262745 0.286275 0.172549
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_14.png
+
+newmtl _14.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.262745 0.286275 0.172549
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_14.png
+
+newmtl _14.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.262745 0.286275 0.172549
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_14.png
+
+newmtl _15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.203922 0.239216 0.149020
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_15.png
+
+newmtl _15.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.203922 0.239216 0.149020
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_15.png
+
+newmtl _15.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.203922 0.239216 0.149020
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_15.png
+
+newmtl _17.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.266667 0.450980 0.333333
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.840000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_17.png
+
+newmtl _17.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.266667 0.450980 0.333333
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.840000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_17.png
+
+newmtl _17.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.266667 0.450980 0.333333
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.840000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_17.png
+
+newmtl _17.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.266667 0.450980 0.333333
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.840000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_17.png
+
+newmtl _22.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.439216 0.270588
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_22.png
+
+newmtl _22.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.439216 0.270588
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_22.png
+
+newmtl _22.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.439216 0.270588
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_22.png
+
+newmtl _22.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.356863 0.439216 0.270588
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.990000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_22.png
+
+newmtl _23.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.125490 0.149020 0.094118
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_23.png
+
+newmtl _23.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.125490 0.149020 0.094118
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_23.png
+
+newmtl _23.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.125490 0.149020 0.094118
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.910000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_23.png
+
+newmtl _3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.356863 0.168627
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.920000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_3.png
+
+newmtl _3.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.356863 0.168627
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.920000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_3.png
+
+newmtl _3.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.356863 0.168627
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.920000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_3.png
+
+newmtl _3.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.356863 0.168627
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.920000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_3.png
+
+newmtl _5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.168627 0.200000 0.125490
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_5.png
+
+newmtl _5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.168627 0.200000 0.125490
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_5.png
+
+newmtl _5.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.168627 0.200000 0.125490
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_5.png
+
+newmtl _8.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.447059 0.549020 0.337255
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_8.png
+
+newmtl _8.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.447059 0.549020 0.337255
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_8.png
+
+newmtl _8.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.447059 0.549020 0.337255
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.980000
+illum 9
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\_8.png
+
+newmtl a_blinn2SG.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd ..\\Old_man\\Muro_body_dm.jpg
+map_Ks ..\\Old_man\\Muro_body_sm.jpg
+
+newmtl a_blinn4SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd ..\\Old_man\\Muro_head_dm.jpg
+map_Ks ..\\Old_man\\Muro_head_sm.jpg
+
+newmtl barco_con_low_Material_u1_v1
+Ns 225.000000
+Ka 0.155963 0.155963 0.155963
+Kd 0.800000 0.800000 0.800000
+Ks 0.105505 0.105505 0.105505
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\boat-josefa\\textures\\barco_con_low_test_1001_BaseColor.png
+
+newmtl busHouse_rustMetal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\metalRust-chrome_diffuse_2k_cc.jpg
+
+newmtl bushouse_body
+Ns 179.999996
+Ka 0.587156 0.587156 0.587156
+Kd 0.800000 0.800000 0.800000
+Ks 0.568807 0.568807 0.568807
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\bus_bushouse_body_Diffuse_2k.jpg
+
+newmtl bushouse_chrome
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\tire-plastic_diffuse_2k.jpg
+
+newmtl bushouse_concrete
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\curtains-concrete-glass_diffuse_1k.png
+
+newmtl bushouse_curtains
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\curtains-concrete-glass_diffuse_1k.png
+
+newmtl bushouse_fillers
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl bushouse_ground
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\gypsy-bus-house\\textures\\bus_bushouse_ground_Diffuse_1k.jpg
+
+newmtl bushouse_lamps
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\bus_bushouse_lamps_Diffuse_512.jpg
+
+newmtl bushouse_plastic
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\tire-plastic_diffuse_2k.jpg
+
+newmtl bushouse_roof_twoSide
+Ns 179.999996
+Ka 0.284404 0.284404 0.284404
+Kd 0.800000 0.800000 0.800000
+Ks 0.110092 0.110092 0.110092
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\bushouse_roof_twoSide_Base_Color.jpg
+
+newmtl bushouse_tire_twoSide
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\tire-plastic_diffuse_2k.jpg
+
+newmtl bushouse_water
+Ns 504.632514
+Ka 0.904762 0.904762 0.904762
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl bushouse_wood
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\wood_diffuse_2k.jpg
+
+newmtl bushouse_woodFace
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\wood_diffuse_2k.jpg
+
+newmtl bushouse_woodPlate
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\gypsy-bus-house\\textures\\wood_diffuse_2k.jpg
+
+newmtl c_JuniperusChi_01_.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.298039 0.419608 0.231373
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\c_JuniperusChi_01_.jpg
+
+newmtl c_JuniperusChi_01_.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.298039 0.419608 0.231373
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\c_JuniperusChi_01_.jpg
+
+newmtl c_JuniperusChi_01_.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.298039 0.419608 0.231373
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\low-poly-vegetation\\source\\full pack 04\\c_JuniperusChi_01_.jpg
+
+newmtl cloth
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.444954 0.444954 0.444954
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\potbelly-stove\\source\\model\\textures\\cloth_albedo.jpg
+
+newmtl defaultMat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.550000 0.550000 0.550000
+Ks 0.160550 0.160550 0.160550
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\tree-stump\\textures\\defaultMat_albedo.jpeg
+
+newmtl diffuse_1SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.048387 0.048387 0.048387
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\terrain\\textures\\diff2.jpg
+
+newmtl kirza
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ..\\kirza-boots\\textures\\kirza_DefaultMaterial_BaseColor.png
+
+newmtl lambert1.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.018349 0.018349 0.018349
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\backpack\\textures\\lambert1_Base_Color.png
+
+newmtl lambert3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\tuareg-tent\\textures\\tent_wall_COLOR.png
+
+newmtl lambert5SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\tuareg-tent\\textures\\tent_wall_COLOR.png
+
+newmtl lambert6SG
+Ns 15.926697
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\tuareg-tent\\textures\\tent_wall_COLOR.png
+
+newmtl oil-truck.003
+Ns 225.000000
+Ka 0.504587 0.504587 0.504587
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\Ruins\\tex\\oil-truck.jpg
+
+newmtl wood_fance_t1_m
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.001
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.002
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.003
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.004
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.005
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.006
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.007
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.008
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
+
+newmtl wood_fance_t1_m.009
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\\fence\\textures\\1024\\wood_fance_mt1_Albedo.png
